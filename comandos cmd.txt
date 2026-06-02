@@ -1,3 +1,0 @@
-cd Documents/Programación/Arcadia Comics
-
-npm run dev
